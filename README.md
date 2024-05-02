@@ -1,5 +1,8 @@
-# This is an example please modify
-# AWS RDS Aurora MySQL
+# Terraform Template
+
+TODO: REPLACE THE CONTENTS OF THIS FILE
+
+This is a template repository for creating terraform modules.
 
 This terraform module creates ...
 
